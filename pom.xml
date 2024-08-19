@@ -22,6 +22,8 @@
     <module>microservice-gateway</module>
     <module>microservice-eureka</module>
     <module>microservice-config</module>
+    <module>microservice-student</module>
+    <module>microservice-course</module>
   </modules>
 
   <properties>
@@ -36,7 +38,6 @@
       <artifactId>lombok</artifactId>
       <version>1.18.34</version>
     </dependency>
-
   </dependencies>
 
   <build>
